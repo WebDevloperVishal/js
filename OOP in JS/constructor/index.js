@@ -20,7 +20,7 @@ const c = new Car("Toyota","Fortuner");
 // c.model = "Fortuner";
 c.displayInfo();
 
-const c2 = new Car()
-    c2.brand = "BMW";
-    c2.model = "BMW M4 - Serices"
+const c2 = new Car("BMW","BMW M4 - Serices")
+    // c2.brand = "BMW";
+    // c2.model = "BMW M4 - Serices"
     c2.displayInfo();
