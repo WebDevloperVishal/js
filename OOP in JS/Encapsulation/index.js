@@ -14,5 +14,5 @@ class Person{
 }
 
 const p = new Person();
-p.setName("Aryan",14);
+p.setName("Aryan", 14);
 p.getName();
