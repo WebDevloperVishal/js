@@ -11,3 +11,6 @@ class CoffeeMachine{
         console.log('Your Coffee is Ready');
     }
 }
+
+const myMachine = new CoffeeMachine();
+myMachine.makeCoffee();
