@@ -20,3 +20,6 @@ c1.displayInfo();
 
 const c2 = new Car("BMW", "BMW M4 - Serices")
 c2.displayInfo();
+
+const c3 = new Car("TATA", "Safari")
+c3.displayInfo();
