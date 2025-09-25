@@ -15,9 +15,9 @@ class Car{
 }
 
 let n = 10;
-const c = new Car();
-c.brand = "Toyota";
-c.model = "Fortuner";
+const c = new Car("Toyota","Fortuner");
+// c.brand = "Toyota";
+// c.model = "Fortuner";
 c.displayInfo();
 
 const c2 = new Car()
