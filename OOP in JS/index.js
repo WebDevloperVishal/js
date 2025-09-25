@@ -3,7 +3,7 @@ class Car{
     model;
 
     displayInfo(){
-        console.log(`Car Brand = ${brand} and Model = ${model}`);
+        console.log(`Car Brand = ${this.brand} and Model = ${this.model}`);
         
     }
 
