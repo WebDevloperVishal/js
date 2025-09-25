@@ -10,7 +10,7 @@ class Car{
 }
 
 let n = 10;
-const Car = new Car();
+const c = new Car();
 c.brand = "Toyota";
 c.model = "Fortuner";
 c.displayInfo();
