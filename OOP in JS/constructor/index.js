@@ -15,10 +15,10 @@ class Car {
 }
 
 let n = 10;
-const c = new Car("Toyota", "Fortuner");
+const c1 = new Car("Toyota", "Fortuner");
 // c.brand = "Toyota";
 // c.model = "Fortuner";
-c.displayInfo();
+c1.displayInfo();
 
 const c2 = new Car("BMW", "BMW M4 - Serices")
 // c2.brand = "BMW";
