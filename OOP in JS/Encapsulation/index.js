@@ -8,7 +8,7 @@ class Person{
     }
 
     getName(){
-        console.log(`Name is = ${this.#name} Age = ${this.#age}`);
+        console.log(`Name is = ${this.#name} , Age = ${this.#age}`);
         
     }
 }
