@@ -2,6 +2,11 @@ class Car{
     brand;
     model;
 
+    constructor(brand,model){
+        this.brand = brand;
+        this.model = model;
+    }
+
     displayInfo(){
         console.log(`Car Brand = ${this.brand} and Model = ${this.model}`);
         
